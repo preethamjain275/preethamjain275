@@ -1,64 +1,128 @@
-<!-- Professional Hacker-style Animated Header -->
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=900&color=00C896&center=true&vCenter=true&width=520&lines=Hi+👋,+I'm+Preetham+Jain+M;CSE+Student+%26+Tech+Enthusiast;Coding,+AI+and+Web+Development" />
-</h1>
+<h1 align="center">Hey 👋, I'm Preetham Jain M</h1>
+<h3 align="center">🚀 CSE Student | Full Stack Explorer | AI & ML Enthusiast | Builder in Progress</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=CSE+Student+%40+Sapthagiri+NPS+University;GFG+Campus+Ambassador+%7C+Open+Source+Contributor;Web+Dev+%7C+ML+%7C+Flutter+%7C+AI+Explorer;Tech+is+my+playground+%E2%80%94+Curiosity+is+my+fuel" alt="Typing SVG" />
+</p>
 
 ---
 
-# 💫 About Me:
-<br>🎓 CSE student at Sapthagiri NPS University  
-<br>💻 Passionate about Coding, AI & Technology  
-<br>🌱 Currently exploring Web Development & Machine Learning  
-<br>🤝 Open to collaborating on projects and contributing to open source  
+### 💼 Currently @
+- 🎓 **CSE Student @ Sapthagiri NPS University (SNPSU)**, Bengaluru (2023–2027)
+- 🟢 **Campus Ambassador @ GeeksforGeeks (GFG)** – Representing SNPSU, spreading tech culture & opportunities on campus
+- 📍 Based in Bengaluru, Karnataka
+
+<p align="left">
+  <a href="https://www.geeksforgeeks.org/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Campus%20Ambassador-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preetham-jain-m-b7180933a/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preethamjainm6324@gmail.com)
+### 🔥 What I'm Working On Right Now
+- 😄 **SmileBuddy** – Real-time smile detection app using face-api.js, WebRTC & Supabase
+- 📚 **SNPSU Nexus** – College notes & study materials portal for students
+- 🤖 **JSON Repair Environment** – RL-based project built at Scaler × HuggingFace OpenEnv Hackathon
 
-> 📩 Clicking the Email badge opens Gmail directly.
-
----
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white)
+> *"Don't just learn to code — build things that matter."*
 
 ---
 
-# 📊 GitHub Stats:
+### 🧠 Tech Stack & Tools
 
-![Preetham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=preethamjain275&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
+#### ⚒️ Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=preethamjain275&theme=vue-dark&hide_border=false)
+#### 🌐 Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preethamjain275&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+#### ☁️ Cloud & Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,gcp,vercel,netlify,aws" />
+</p>
+
+#### 🛠 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,vscode,arduino,figma,canva" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=preethamjain275&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🚀 Projects That Define Me
 
-<!-- Subtle Hacker-style Terminal Effect -->
-```bash
-> Initializing brain.exe
-> Learning new tech...
-> Building cool projects...
-> Status: Always Curious 🚀
-```
+- 😄 **SmileBuddy**
+  Real-time smile detection app — face-api.js + WebRTC + Supabase. Built & presented at Stupid Hackathon by Acharya IT, finished **5th out of 100 teams**
+
+- 🤖 **JSON Repair Environment**
+  Reinforcement learning project built at **Scaler × HuggingFace OpenEnv Hackathon** — fully deployed on HuggingFace Spaces
+
+- 📚 **SNPSU Nexus**
+  College notes & question bank portal for students of Sapthagiri NPS University — built with HTML/CSS/JS, hosted on Vercel
+
+- 🚦 **Traffic Accident Prediction**
+  ML project using **Random Forest + Streamlit** — built from scratch as a beginner with full deployment
+
+- 🛒 **Zylos**
+  Full-stack e-commerce app with dark/light mode, push notifications, multi-language support (i18next) & Razorpay integration
+
+- 📥 **SaveIt**
+  Social media downloader app built in React using the Cobalt.tools API
+
+---
+
+### 📈 GitHub Analytics & Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preethamjain275&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=preethamjain275&theme=radical&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=preethamjain275&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=preethamjain275&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=preethamjain275&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=preethamjain275&theme=radical&utcOffset=5.5" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=preethamjain275&theme=onedark&no-frame=true&column=4&rank=B,A,AA,AAA,S,SS,SSS" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/preetham-jain-m-b7180933a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/preethamjain275" target="_blank">
+    <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+  <a href="mailto:preethamjainm6324@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/preethamjain275" target="_blank">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>"Consistency beats talent when talent isn't consistent."</i></p>
+
+<p align="center">🚀 I'm not just learning. I'm building my future. One commit at a time.</p>
