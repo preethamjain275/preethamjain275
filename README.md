@@ -7,7 +7,7 @@
 
 ---
 
-### 💼 Currently @
+### 💼 Currently 
 - 🎓 **CSE Student @ Sapthagiri NPS University (SNPSU)**, Bengaluru (2024–2028)
 - 🟢 **Campus Ambassador @ GeeksforGeeks (GFG)** – Representing SNPSU, spreading tech culture & opportunities on campus
 - 📍 Based in Bengaluru, Karnataka
