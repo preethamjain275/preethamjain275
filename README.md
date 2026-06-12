@@ -126,8 +126,7 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,express,tailwind" />
 
 #### AI / ML Tools
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Groq-00A3E0?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white"/>
